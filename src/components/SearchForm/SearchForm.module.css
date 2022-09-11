@@ -1,0 +1,14 @@
+.searchBlock {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  font-size: 18px;
+}
+.searchInput {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.SearchForm {
+  max-width: 400px;
+}

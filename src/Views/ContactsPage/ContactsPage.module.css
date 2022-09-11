@@ -1,0 +1,20 @@
+.ListName {
+  font-size: 20px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.Table {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 600px) {
+  .Table {
+    display: flex;
+    flex-direction: column;
+  }
+}
